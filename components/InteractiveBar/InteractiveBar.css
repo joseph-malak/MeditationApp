@@ -1,0 +1,33 @@
+.IntroductionSlide{
+
+    width:100%;
+    
+    background-repeat: no-repeat;
+    background-image: no-repeat;
+    background-image:url('../../breathing.png');
+    height: 400px;
+
+    background-size:cover;
+    background-position: center;
+    opacity: .5;
+    
+    
+    
+}
+
+.SlideButton{
+    
+    width:15%;
+    height:70px;
+    background-color: green;
+    font-size:xx-large;
+    color:rgb(131, 231, 16);
+    margin-right: 75%;
+    margin-left:5%;
+    margin-top:15%;
+    position:relative;
+    border-radius: 10px;
+    
+}
+
+
